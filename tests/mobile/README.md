@@ -43,7 +43,9 @@ Por favor siga os passos abaixo:
 ### Linguagem e Bibliotecas obrigatórias:
 
 Para esse projeto vamos utilizar a linguagem flutter/dart.
+
 Para gerenciamento de estado, BLOC.
+
 Para injeção de dependencias ChangeNotifier (Provider).
 
 ### Linguagem e Bibliotecas recomendadas:

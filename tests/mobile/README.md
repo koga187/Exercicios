@@ -60,6 +60,10 @@ Teste de widget.
 
 Teste de integração.
 
+Usar os temas com o darkMode.
+
+Utilizar principios do SOLID.
+
 
 Boa Sorte, e bons estudos! ;)
 

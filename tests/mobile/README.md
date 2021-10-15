@@ -48,6 +48,8 @@ Para gerenciamento de estado, BLOC.
 
 Para injeção de dependencias ChangeNotifier (Provider).
 
+Adicionar teste unitário e de widget.
+
 ### Linguagem e Bibliotecas recomendadas:
 
 

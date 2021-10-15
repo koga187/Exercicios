@@ -23,7 +23,7 @@ Você vai desenvolver duas telas:
 
 ## Requerimentos tecnicos
 
-Nosso aplicatido ficticio deve crescer rápido, então uma solução que aplique uma arquitetura que considere consistente e garanta que o código seja escalavel.
+Nosso aplicatido ficticio deve crescer rápido, então deve ser uma solução que aplique uma arquitetura que você considere consistente e garanta que o código seja escalavel.
 
 ### API
 
@@ -40,7 +40,7 @@ Por favor siga os passos abaixo:
 
 3. Inclua um arquivo README com as instruções para build do projeto;
 
-4. Uma vez que tiver terminado o trabalho, me envie o link fo repositório, com acesso de leitura.
+4. Uma vez que tiver terminado o trabalho, me envie o link do repositório, com acesso de leitura.
 
 ### Linguagem e Bibliotecas obrigatórias:
 
@@ -52,10 +52,13 @@ Para gerenciamento de estado, BLOC.
 
 Para injeção de dependencias ChangeNotifier (Provider).
 
-Adicionar teste unitário e de widget.
+Adicionar teste unitário.
 
-### Linguagem e Bibliotecas recomendadas:
+### Diferencial:
 
+Teste de widget.
+
+Teste de integração.
 
 
 Boa Sorte, e bons estudos! ;)

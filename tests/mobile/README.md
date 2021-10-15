@@ -15,6 +15,8 @@ Você vai desenvolver duas telas:
 
 **Detalhes do Jogo**: Quando selecionar o jogo na lista, o usuário será redirecionado a tela de detalhes do jogo, onde as informações de imagem, nome, genero, plataformas desponiveis e descrição do jogo irão aparecer.
 
+**Cache local** Nossos usuário precisam dos dados offline, então todas as telas navegadas devem ser salvas num sqlite, para podermos voltar e navegar em modo avião.
+
 ![Lista do Jogo](images/games.png?raw=true "Games List")
 
 ![Detalhes do jogo](images/game_detail.png?raw=true "Game Detail")
@@ -43,6 +45,8 @@ Por favor siga os passos abaixo:
 ### Linguagem e Bibliotecas obrigatórias:
 
 Para esse projeto vamos utilizar a linguagem flutter/dart.
+
+Para gerenciar o banco de dados utilize o ORM MOOR.
 
 Para gerenciamento de estado, BLOC.
 

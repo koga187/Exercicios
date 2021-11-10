@@ -46,15 +46,15 @@ Por favor siga os passos abaixo:
 
 Para esse projeto vamos utilizar a linguagem flutter/dart.
 
-Para gerenciar o banco de dados utilize o ORM MOOR.
-
 Para gerenciamento de estado, BLOC.
 
 Para injeção de dependencias ChangeNotifier (Provider).
 
 Adicionar teste unitário.
 
-### Diferencial:
+### Diferenciais:
+
+ORM MOOR/DRIFT.
 
 Teste de widget.
 
